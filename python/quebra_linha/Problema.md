@@ -6,7 +6,9 @@ Escreva um programa em que dado uma frase e a quantidade de colunas que podem se
 Por exemplo, se passarmos a frase "Um pequeno jabuti xereta viu dez cegonhas felizes." e pedirmos para ela ser exibida em 20 colunas, teremos como resposta:
 
 Um pequeno jabuti
+
 xereta viu dez
+
 cegonhas felizes.
 
 Fonte: http://dojopuzzles.com/problemas/exibe/quebra-de-linha/
